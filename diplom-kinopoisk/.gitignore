@@ -1,0 +1,23 @@
+# Секреты и переменные окружения
+.env
+
+# Кеш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Отчеты Allure
+allure-results/
+allure-report/
+
+# Системные файлы macOS
+.DS_Store
+
+# Настройки IDE (VS Code)
+.vscode/
